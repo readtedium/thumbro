@@ -1,7 +1,7 @@
-{
+v{
   "name": "ether/thumbro",
   "description": "Craft CMS image transformations powered by Thumbor",
-  "version": "1.0.8",
+  "version": "1.0.8-dev",
   "type": "craft-plugin",
   "license": "proprietary",
   "minimum-stability": "dev",
